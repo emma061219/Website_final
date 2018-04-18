@@ -115,7 +115,8 @@ img {
     font-size: 1.4rem;
     color: #2B7A78;
     margin-top: 10px;
-    padding-top: 10px;
+    width: 950px;
+    height: 350px;
 }
 
 .Aboutme{
@@ -125,6 +126,7 @@ img {
     padding: 10px;
     text-align: left;
     margin-left: 80px;
+    margin-top: 30px;
 }
 
 .endbanner{
@@ -149,6 +151,6 @@ img {
 .skatephoto{
     float: right;
     margin-right: 100px;
-    margin-top: 15px;
+    margin-top: 60px;
 
 }

@@ -60,9 +60,10 @@ body{
 }
 
 .abouttext{
-    color: black;
+    color: #2B7A78;
     text-decoration: none;
     font-size: 1rem;
+    
 }
 
 .contact{
@@ -72,7 +73,7 @@ body{
 }
 
 .contacttitle{
-    color: black;
+    color: #2B7A78;
     text-decoration: none;
     font-size: 2.5rem;
 }
