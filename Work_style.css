@@ -52,17 +52,18 @@ body{
     height: 250px;
     float: left;
     padding: 10px;
-    margin-bottom: 15px;
+    margin-bottom: 85px;
 }
 
 .text{
     float:left; 
     margin-bottom: 15px;
-    margin-top:15px;
+    margin-top:85px;
 }
 
 .photo{
-    float: left; 
+    float: left;
+    margin-top: 200px;
 }
 .endbanner{
     margin-top: 20px;
@@ -83,21 +84,11 @@ body{
     text-decoration: none;
 }
 
-.blurb1{
-    margin-left: 10px;
-    float: left;
-    margin-bottom: 20px;
-}
-.blurb2{
-    margin-left: 10px;
-    float: left;
-    margin-bottom: 20px;
-}
-
 .section one{
     margin-top: 10px;
+    padding: 40px;
 }
 
 .section two{
-    margin-top: 10px;
+    margin-top: 50px;
 }
